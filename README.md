@@ -1,22 +1,35 @@
-SLHpc:
-
-    Windows:
-        
-        WinRAR
-        qBitTorrent
-        
-        
-        
-        OBS
-
 SLHnote:
     
     Windows:
 
-        Revo
+        Revo Uninstaller
+        Revo Driver Updater
         AMD Software
+        WinRAR
+        qBitTorrent
+        Resillo Sync
+        EZBlocker
+        
+        Discord
+        Radmin VPN
+        Steam
+        Epic Games Store
+        OBS
+        
+        Store:
+        
+            MyASUS, GlideX
+            XBOX Identity Provider
+            XBOX Game Bar
+            Brightness Control
+            Telegram
+            Windows Terminal Preview
+            Paint 3D
+            Battery Percentage
+            Pure Battery analitycs
+            Spotify
 
-    Linux:
+    Linux (up to 100 GB):
 
     S   snap
     F   flatpak    
@@ -24,7 +37,7 @@ SLHnote:
     A   appimage (?)
     N   NoneOfThis
 
-    F   Extension manager
+    F   Extension manager:
 
             DarkVariant
             Gnome Clipboard
@@ -59,3 +72,7 @@ SLHnote:
     N   Klavaro
     F/N VS Code
 
+SLHpc:
+
+    Windows:
+    
