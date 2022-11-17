@@ -1,6 +1,13 @@
 SLHpc:
 
     Windows:
+        
+        WinRAR
+        qBitTorrent
+        
+        
+        
+        OBS
 
 SLHnote:
     
