@@ -1,10 +1,16 @@
-Windows:
+SLHpc:
 
-    Revo
-    AMD Software
+    Windows:
+
+SLHnote:
     
-Linux:
-    
+    Windows:
+
+        Revo
+        AMD Software
+
+    Linux:
+
     S   snap
     F   flatpak    
     D   dnf
@@ -45,4 +51,4 @@ Linux:
     S/N OnlyOffice
     N   Klavaro
     F/N VS Code
-    
+
