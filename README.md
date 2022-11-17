@@ -47,7 +47,7 @@ SLHnote:
             X11 Gestures (?)
 
     D   Tweaks
-    N   GRUB customizer
+    F   GRUB customizer
 
     F   Discord
     F   Telegram
@@ -56,15 +56,15 @@ SLHnote:
     D   Firefox
     N   Chrome
 
-    N   QBitTorrent
+    F   QBitTorrent
     F   Spotify
     F   Glimpse
     F   Avvie
-    F   Metadata remover
+    F   Metadata cleaner
     S   Video downloader
 
     S   KDiskMark
-    N   PowerStatistics
+    F   PowerStatistics
     N   CPU-X
     F   Coolero
 
