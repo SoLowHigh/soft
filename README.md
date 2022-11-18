@@ -28,6 +28,7 @@ SLHnote:
             Battery Percentage
             Pure Battery analitycs
             Spotify
+            QuickLook
 
     Linux (up to 100 GB):
 
