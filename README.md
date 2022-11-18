@@ -21,14 +21,18 @@ SLHnote:
             MyASUS, GlideX
             XBOX Identity Provider
             XBOX Game Bar
-            Brightness Control
             Telegram
+            Spotify
             Windows Terminal Preview
             Paint 3D
-            Battery Percentage
             Pure Battery analitycs
-            Spotify
-            QuickLook
+            Pure Battery Add-on
+            Brightness Control
+            QuickLook:
+            
+                OfficeViewer
+                TorrentViewer
+                FolderViewer
 
     Linux (up to 100 GB):
 
