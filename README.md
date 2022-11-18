@@ -3,7 +3,7 @@ SLHnote:
     Windows:
 
         Revo Uninstaller
-        Revo Driver Updater
+        Driver Booster
         AMD Software
         WinRAR
         qBitTorrent
