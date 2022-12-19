@@ -2,18 +2,20 @@ SLHnote:
     
     Windows:
 
-        Revo Uninstaller
-        Driver Booster
-        AMD Software
-        WinRAR
-        qBitTorrent
-        Resillo Sync
-        EZBlocker
+        Bloody                  https://www.a4tech.com.tw/download/BloodyMouse/Bloody7_V2022.1125_MUI.exe
+        Revo Uninstaller        https://rutracker.org/forum/viewtopic.php?t=5954151
+        Driver Booster          https://rutracker.org/forum/viewtopic.php?t=6268289
+        Start10                 https://rutracker.org/forum/viewtopic.php?t=5373216
+        AMD Software            
+        WinRAR                  
+        Resillo Sync            https://download-cdn.resilio.com/stable/windows64/Resilio-Sync_x64.exe
+        EZBlocker               http://www.ericzhang.me/dl/?file=EZBlocker.php
         
-        Discord
-        Radmin VPN
-        Steam
-        Epic Games Store
+        Discord                 https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86
+        [Discord](https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86)
+        Radmin VPN              
+        Steam                   https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe
+        Epic Games Store        https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi
         OBS
         
         Store:
@@ -28,11 +30,12 @@ SLHnote:
             Pure Battery analitycs
             Pure Battery Add-on
             Brightness Control
+            qBitTorrent:
+                Dark theme
             QuickLook:
-            
-                OfficeViewer
-                TorrentViewer
-                FolderViewer
+                OfficeViewer    https://github.com/QL-Win/QuickLook.Plugin.OfficeViewer/releases
+                TorrentViewer   https://github.com/Cologler/QuickLook.Plugin.TorrentViewer/releases
+                FolderViewer    https://github.com/adyanth/QuickLook.Plugin.FolderViewer/releases
 
     Linux (up to 100 GB):
 
