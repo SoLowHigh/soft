@@ -8,7 +8,6 @@
     EZBlocker               http://www.ericzhang.me/dl/?file=EZBlocker.php
 
     Discord                 https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86
-    [Discord](https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86)
     Radmin VPN              
     Steam                   https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe
     Epic Games Store        https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi
