@@ -1,86 +1,77 @@
-SLHnote:
-    
-    Windows:
+Bloody                  https://www.a4tech.com.tw/download/BloodyMouse/Bloody7_V2022.1125_MUI.exe
+Revo Uninstaller        https://rutracker.org/forum/viewtopic.php?t=5954151
+Driver Booster          https://rutracker.org/forum/viewtopic.php?t=6268289
+Start10                 https://rutracker.org/forum/viewtopic.php?t=5373216
+AMD Software            
+WinRAR                  
+Resillo Sync            https://download-cdn.resilio.com/stable/windows64/Resilio-Sync_x64.exe
+EZBlocker               http://www.ericzhang.me/dl/?file=EZBlocker.php
 
-        Bloody                  https://www.a4tech.com.tw/download/BloodyMouse/Bloody7_V2022.1125_MUI.exe
-        Revo Uninstaller        https://rutracker.org/forum/viewtopic.php?t=5954151
-        Driver Booster          https://rutracker.org/forum/viewtopic.php?t=6268289
-        Start10                 https://rutracker.org/forum/viewtopic.php?t=5373216
-        AMD Software            
-        WinRAR                  
-        Resillo Sync            https://download-cdn.resilio.com/stable/windows64/Resilio-Sync_x64.exe
-        EZBlocker               http://www.ericzhang.me/dl/?file=EZBlocker.php
-        
-        Discord                 https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86
-        [Discord](https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86)
-        Radmin VPN              
-        Steam                   https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe
-        Epic Games Store        https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi
-        OBS
-        
-        Store:
-        
-            MyASUS, GlideX
-            XBOX Identity Provider
-            XBOX Game Bar
-            Telegram
-            Spotify
-            Windows Terminal Preview
-            Paint 3D
-            Pure Battery analitycs
-            Pure Battery Add-on
-            Brightness Control
-            qBitTorrent:
-                Dark theme
-            QuickLook:
-                OfficeViewer    https://github.com/QL-Win/QuickLook.Plugin.OfficeViewer/releases
-                TorrentViewer   https://github.com/Cologler/QuickLook.Plugin.TorrentViewer/releases
-                FolderViewer    https://github.com/adyanth/QuickLook.Plugin.FolderViewer/releases
+Discord                 https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86
+[Discord](https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86)
+Radmin VPN              
+Steam                   https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe
+Epic Games Store        https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi
+OBS
 
-    Linux (up to 100 GB):
+Store:
 
-    S   snap
-    F   flatpak    
-    D   dnf
-    A   appimage (?)
-    N   NoneOfThis
+MyASUS, GlideX
+XBOX Identity Provider
+XBOX Game Bar
+Telegram
+Spotify
+Windows Terminal Preview
+Paint 3D
+Pure Battery analitycs
+Pure Battery Add-on
+Brightness Control
+qBitTorrent:
+    Dark theme      https://github.com/maboroshin/qBittorrentDarktheme/raw/master/Absinthe.qbtheme
+QuickLook:
+    OfficeViewer    https://github.com/QL-Win/QuickLook.Plugin.OfficeViewer/releases
+    TorrentViewer   https://github.com/Cologler/QuickLook.Plugin.TorrentViewer/releases
+    FolderViewer    https://github.com/adyanth/QuickLook.Plugin.FolderViewer/releases
 
-    F   Extension manager:
+Linux (up to 100 GB):
 
-            DarkVariant
-            Gnome Clipboard
-            GSCConnect (?)
-            Hide Top Bar
-            Unite
-            X11 Gestures (?)
+S   snap
+F   flatpak    
+D   dnf
+A   appimage (?)
+N   NoneOfThis
 
-    D   Tweaks
-    F   GRUB customizer
+F   Extension manager:
 
-    F   Discord
-    F   Telegram
-    F   Slack
+DarkVariant
+Gnome Clipboard
+GSCConnect (?)
+Hide Top Bar
+Unite
+X11 Gestures (?)
 
-    D   Firefox
-    N   Chrome
+D   Tweaks
+F   GRUB customizer
 
-    F   QBitTorrent
-    F   Spotify
-    F   Glimpse
-    F   Avvie
-    F   Metadata cleaner
-    S   Video downloader
+F   Discord
+F   Telegram
+F   Slack
 
-    S   KDiskMark
-    F   PowerStatistics
-    N   CPU-X
-    F   Coolero
+D   Firefox
+N   Chrome
 
-    S/N OnlyOffice
-    N   Klavaro
-    F/N VS Code
+F   QBitTorrent
+F   Spotify
+F   Glimpse
+F   Avvie
+F   Metadata cleaner
+S   Video downloader
 
-SLHpc:
+S   KDiskMark
+F   PowerStatistics
+N   CPU-X
+F   Coolero
 
-    Windows:
-    
+S/N OnlyOffice
+N   Klavaro
+F/N VS Code
