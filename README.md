@@ -31,7 +31,7 @@ OBS
 
 
 
-Store:
+  Windows Store:
 
 
 
