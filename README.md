@@ -1,3 +1,4 @@
+    KMS                     https://kmsauto-net.ru/kms.zip
     Bloody                  https://www.a4tech.com.tw/download/BloodyMouse/Bloody7_V2022.1125_MUI.exe
     Revo Uninstaller        https://rutracker.org/forum/viewtopic.php?t=5954151
     Driver Booster          https://rutracker.org/forum/viewtopic.php?t=6268289
