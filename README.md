@@ -1,37 +1,36 @@
-KMS                     https://kmsauto-net.ru/kms.zip
+[KMS](https://kmsauto-net.ru/kms.zip)
 
-Bloody                  https://www.a4tech.com.tw/download/BloodyMouse/Bloody7_V2022.1125_MUI.exe
+[Bloody](https://www.a4tech.com.tw/download/BloodyMouse/Bloody7_V2022.1125_MUI.exe)
 
-Revo Uninstaller        https://rutracker.org/forum/viewtopic.php?t=5954151
+[Revo Uninstaller](https://rutracker.org/forum/viewtopic.php?t=5954151)
 
-Driver Booster          https://rutracker.org/forum/viewtopic.php?t=6268289
+[Driver Booster](https://rutracker.org/forum/viewtopic.php?t=6268289)
 
-Start10                 https://rutracker.org/forum/viewtopic.php?t=5373216
+[Start10](https://rutracker.org/forum/viewtopic.php?t=5373216)
 
-AMD Software            
+AMD Software
 
+WinRAR
 
-WinRAR                  
+[Resillo Sync](https://download-cdn.resilio.com/stable/windows64/Resilio-Sync_x64.exe)
 
-Resillo Sync            https://download-cdn.resilio.com/stable/windows64/Resilio-Sync_x64.exe
+[EZBlocker](http://www.ericzhang.me/dl/?file=EZBlocker.php)
 
-EZBlocker               http://www.ericzhang.me/dl/?file=EZBlocker.php
-
-
-
-Discord                 https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86
+[Discord](https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86)
 
 Radmin VPN              
 
-Steam                   https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe
+[Steam](https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe)
 
-Epic Games Store        https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi
+[Epic Games Store](https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi)
+
+[GameLoop](https://down.gameloop.com/k_pack_up/16412/c25220736/GLP_installer_1000218456_market.exe)
 
 OBS
 
 
 
-  Windows Store:
+Windows Store:
 
 
 
@@ -55,17 +54,15 @@ Pure Battery Add-on
 
 Brightness Control
 
-qBitTorrent:
-
-Dark theme      https://github.com/maboroshin/qBittorrentDarktheme/raw/master/Absinthe.qbtheme
+qBitTorrent [Dark](https://github.com/maboroshin/qBittorrentDarktheme/raw/master/Absinthe.qbtheme)
 
 QuickLook:
 
-OfficeViewer    https://github.com/QL-Win/QuickLook.Plugin.OfficeViewer/releases
+[OfficeViewer](https://github.com/QL-Win/QuickLook.Plugin.OfficeViewer/releases)
 
-TorrentViewer   https://github.com/Cologler/QuickLook.Plugin.TorrentViewer/releases
+[TorrentViewer](https://github.com/Cologler/QuickLook.Plugin.TorrentViewer/releases)
 
-FolderViewer    https://github.com/adyanth/QuickLook.Plugin.FolderViewer/releases
+[FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/releases)
 
 
 
