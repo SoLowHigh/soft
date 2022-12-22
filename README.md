@@ -8,7 +8,7 @@
 
 [Start10](https://rutracker.org/forum/viewtopic.php?t=5373216)
 
-AMD Software
+[AMD Software](https://drivers.amd.com/drivers/installer/22.20/whql/amd-software-adrenalin-edition-22.11.2-minimalsetup-221207_web.exe)
 
 WinRAR
 
