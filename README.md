@@ -42,7 +42,7 @@ XBOX Game Bar
 
 Telegram
 
-Spotify
+Spotify (non-Store [link](https://download.scdn.co/SpotifySetup.exe))
 
 Windows Terminal Preview
 
