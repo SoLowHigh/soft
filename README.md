@@ -1,5 +1,7 @@
 [KMS](https://kmsauto-net.ru/kms.zip)
 
+[EEK](https://dl.emsisoft.com/EmsisoftEmergencyKit.exe)
+
 [Bloody](https://www.a4tech.com.tw/download/BloodyMouse/Bloody7_V2022.1125_MUI.exe)
 
 [Revo Uninstaller](https://rutracker.org/forum/viewtopic.php?t=5954151)
