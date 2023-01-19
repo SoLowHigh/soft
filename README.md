@@ -20,7 +20,7 @@ WinRAR
 
 [Discord](https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86)
 
-Radmin VPN              
+[Radmin VPN](https://download.radmin-vpn.com/download/files/Radmin_VPN_1.3.4568.3.exe)              
 
 [Steam](https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe)
 
