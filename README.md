@@ -1,4 +1,4 @@
-[KMS](https://kmsauto-net.ru/kms.zip)
+[Of2021]([https://kmsauto-net.ru/kms.zip](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ru-RU/ProPlus2021Retail.img))
 
 [EEK](https://dl.emsisoft.com/EmsisoftEmergencyKit.exe)
 
