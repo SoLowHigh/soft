@@ -12,6 +12,10 @@
 
 [AMD Software AE](https://www.amd.com/en/support/apu/amd-ryzen-processors/amd-ryzen-7-mobile-processors-radeon-graphics/amd-ryzen-7-4700u)
 
+[NVIDIA GEXP](https://ru.download.nvidia.com/GFE/GFEClient/3.27.0.120/GeForce_Experience_Beta_v3.27.0.120.exe)
+
+[YaMusic Beta](https://music-desktop-application.s3.yandex.net/stable/Yandex_Music_x64_5.0.6.exe)
+
 WinRAR
 
 [Resillo Sync](https://download-cdn.resilio.com/stable/windows64/Resilio-Sync_x64.exe)
