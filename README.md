@@ -16,6 +16,8 @@
 
 [YaMusic Beta](https://music-desktop-application.s3.yandex.net/stable/Yandex_Music_x64_5.0.6.exe)
 
+[AnyViewer](https://dl.anyviewer.com/AnyViewerSetup.exe)
+
 WinRAR
 
 [Resillo Sync](https://download-cdn.resilio.com/stable/windows64/Resilio-Sync_x64.exe)
