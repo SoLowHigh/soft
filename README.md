@@ -14,6 +14,8 @@
 
 [NVIDIA GEXP](https://ru.download.nvidia.com/GFE/GFEClient/3.27.0.120/GeForce_Experience_Beta_v3.27.0.120.exe)
 
+[MSI Afterburner](https://download.msi.com/uti_exe/vga/MSIAfterburnerSetup.zip?__token__=exp=1726488336~acl=/*~hmac=5bb4bac43743178b28fa7daf09de44f62f0700f7a9690c3395e61c0b41d2f71a)
+
 [YaMusic Beta](https://music-desktop-application.s3.yandex.net/stable/Yandex_Music_x64_5.0.6.exe)
 
 [AnyViewer](https://dl.anyviewer.com/AnyViewerSetup.exe)
